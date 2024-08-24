@@ -1,0 +1,59 @@
+*{
+
+margin:0px;
+padding:0px;
+}
+.nav-item,.logo{
+    font-size: 18pt;
+}
+.header{
+    height: 800px;
+    background-image: url(image/background1.jpg);
+    background-size: cover;
+}
+main{
+    background-color: rgb(70, 70, 68);
+}
+.main-p,.head-p{
+    line-height: 30pt;
+    font-size: 15pt;
+}
+.g5{
+    background-color: rgb(209, 209, 207);
+    border-radius: 3px;
+}
+.service{
+    border: 1px solid black;
+    border-left: none;
+    border-radius: 7px;
+    background-color: rgb(209, 209, 207);
+}
+.heading{
+    background-color: rgb(209, 209, 207);
+    border-radius: 7px;
+}
+.footer1{
+    background-color: rgb(70, 70, 68);
+}
+.footer-row{
+    border-radius: 7px;
+    border: 1px solid black;
+    border-bottom: none;
+    border-top: none;   
+}
+.footer-ul{
+    list-style-type: none;
+}
+
+.header-2{
+    background-color: rgb(209, 209, 207) ;
+}
+.sevice-body{
+    background-color: rgb(70, 70, 68) ;
+}
+.finger{
+    width: 50px;
+}
+.header1{
+    background-color: rgb(209, 209, 207) ;
+}
